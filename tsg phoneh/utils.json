@@ -1,0 +1,221 @@
+[
+  {
+    "id": "2asda",
+    "image": "images/productimages/14promax.png",
+    "price": 650000,
+    "name": "Iphone 14 Pro max",
+    "description": [
+      "Discover unparalleled innovation with the iPhone 14 Pro Max. This flagship device redefines mobile technology, combining cutting-edge features and stunning design in one remarkable package.",
+
+      "Experience seamless performance with the powerful A-series chip, ensuring smooth multitasking and lightning-fast app launches. Capture moments like a pro with the advanced camera system, delivering exceptional photos and videos in any lighting conditions.",
+
+      "Immerse yourself in vibrant visuals on the Super Retina XDR display, and stay connected with 5G support for faster speeds. With enhanced audio and privacy features, the iPhone 14 Pro Max is the epitome of excellence in the palm of your hand."
+    ]
+  },
+  {
+    "id": "2aospef",
+    "image": "images/productimages/iphone 6.png",
+    "price": 40000,
+    "name": "Iphone 6",
+    "description": [
+      "The iPhone 6 was a revolutionary smartphone released by Apple in September 2014.",
+      "It featured a sleek and elegant design with a 4.7-inch Retina display, offering stunning visuals and crisp image quality.",
+      "Powered by the A8 chip, it boasted impressive performance and energy efficiency, providing a smooth user experience.",
+      "The iPhone 6 also introduced the Touch ID fingerprint sensor, enhancing security and making unlocking the device more convenient.",
+      "Its 8-megapixel camera delivered excellent photos and videos, while iOS 8, the latest operating system at the time, introduced new features and improved functionality to this iconic device.",
+      "Overall, the iPhone 6 left a significant mark in the smartphone industry with its blend of style, power, and innovation."
+    ]
+  },
+  {
+    "id": "2asdsda",
+    "image": "images/productimages/iphone 7plus.png",
+    "price": 103000,
+    "name": "Iphone 7 plus",
+    "description": [
+      "The iPhone 7 Plus was released by Apple in September 2016.",
+      "It featured a 5.5-inch Retina display, offering vivid colors and crisp details for an enhanced visual experience.",
+      "Powered by the A10 Fusion chip, the iPhone 7 Plus provided improved performance and energy efficiency compared to its predecessors.",
+      "The device introduced a dual-camera system, enabling optical zoom and portrait mode for capturing stunning photos with bokeh effects.",
+      "With improved water resistance and stereo speakers, the phone was designed to be more durable and provide better audio quality.",
+      "Running on iOS 10, the iPhone 7 Plus offered a wide range of features and continued to receive software updates, making it a reliable choice for many users."
+    ]
+  },
+  {
+    "id": "2aaswesda",
+    "image": "images/productimages/iphone 8 plus.png",
+    "price": 150000,
+    "name": "Iphone 8 plus",
+    "description": [
+      "The iPhone 8 Plus was launched by Apple in September 2017.",
+      "It featured a larger 5.5-inch Retina display, providing immersive visuals and vibrant colors.",
+      "Equipped with the powerful A11 Bionic chip, the phone delivered impressive performance and supported augmented reality experiences.",
+      "The iPhone 8 Plus showcased a dual-camera system with portrait mode, enabling users to capture stunning photos with depth-of-field effects.",
+      "With wireless charging capability and improved water resistance, the device offered enhanced convenience and durability.",
+      "Running on iOS 11, the iPhone 8 Plus brought new features and refinements to Apple's ecosystem, making it a popular choice for many smartphone enthusiasts."
+    ]
+  },
+  {
+    "id": "2etyhasda",
+    "image": "images/productimages/iphone 8.png",
+    "price": 100000,
+    "name": "Iphone 8",
+    "description": [
+      "The iPhone 8 was unveiled by Apple in September 2017.",
+      "It featured a 4.7-inch Retina display with True Tone technology, adapting to ambient lighting for improved color accuracy.",
+      "Powered by the A11 Bionic chip, the phone delivered faster performance and enabled impressive augmented reality experiences.",
+      "The iPhone 8 boasted a single-lens 12-megapixel camera with optical image stabilization, allowing for better low-light photography.",
+      "With glass back design and support for wireless charging, the device offered a sleek appearance and convenient charging capabilities.",
+      "Running on iOS 11 and later upgradable to the latest iOS versions, the iPhone 8 provided access to a wide range of apps and features from the App Store."
+    ]
+  },
+  {
+    "id": "e4f2asda",
+    "image": "images/productimages/iphone xr.png",
+    "price": 175000,
+    "name": "Iphone xr",
+    "description": [
+      "The iPhone XR was introduced by Apple in September 2018 as a more affordable alternative to its flagship models.",
+      "Featuring a 6.1-inch Liquid Retina display, the phone offered impressive color accuracy and a larger screen for an immersive experience.",
+      "Powered by the A12 Bionic chip, the iPhone XR delivered excellent performance and efficiency, supporting advanced features and AI capabilities.",
+      "The device boasted a single-lens 12-megapixel camera that could capture stunning photos and support portrait mode through software processing.",
+      "With Face ID for secure authentication and wireless charging support, the iPhone XR combined convenience with cutting-edge technology.",
+      "Running on iOS 12, the phone received regular updates and continued to be a popular choice for users seeking a powerful and budget-friendly iPhone."
+    ]
+  },
+  {
+    "id": "2as2v3asda",
+    "image": "images/productimages/iphone11.png",
+    "price": 230000,
+    "name": "Iphone 11",
+
+    "description": [
+      "The iPhone 11 was introduced by Apple in September 2019 as the successor to the iPhone XR.",
+      "Featuring a 6.1-inch Liquid Retina display with True Tone technology, the phone delivered excellent color reproduction and clarity.",
+
+      "The device featured a dual-camera system with a 12-megapixel main sensor and an ultra-wide lens, enabling users to capture stunning photos and videos with expanded perspectives.",
+      "With Night mode, Deep Fusion, and Smart HDR, the iPhone 11 excelled in low-light photography and offered impressive computational photography capabilities.",
+      "With Face ID, water and dust resistance, and improved battery life, the iPhone 11 combined cutting-edge technology with practicality, making it a popular choice for many users.",
+      "Running on iOS 13 at launch and later upgradable to newer iOS versions, the iPhone 11 provided access to the latest features and updates from Apple."
+    ]
+  },
+  {
+    "id": "2asdsd555a",
+    "image": "images/productimages/iphone11pro.png",
+    "price": 200000,
+    "name": "Iphone 11pro",
+    "description": [
+      "The iPhone 11 Pro was launched by Apple in September 2019.",
+      "Featuring a 5.8-inch Super Retina XDR display, the phone offered stunning visuals with high brightness and contrast ratios.",
+      "Powered by the A13 Bionic chip, the iPhone 11 Pro delivered exceptional performance, supporting advanced AI and machine learning capabilities.",
+
+      "With Night mode, Deep Fusion, and Smart HDR, the iPhone 11 Pro excelled in low-light conditions, capturing breathtaking images even in challenging environments.",
+      "With enhanced water and dust resistance, the phone was built to withstand the elements while providing a premium and durable design.",
+      "Running on iOS 13 at launch and later upgradable to newer iOS versions, the iPhone 11 Pro offered seamless integration with Apple's ecosystem and access to a wide range of apps and features."
+    ]
+  },
+  {
+    "id": "sa2ass33da",
+    "image": "images/productimages/iphone11promax.png",
+    "price": 300000,
+    "name": "Iphone 11 promax",
+    "description": [
+      "The iPhone 11 Pro Max was launched by Apple in September 2019 as the largest and most advanced model in the iPhone 11 series.",
+      "Featuring a 6.5-inch Super Retina XDR display, the phone offered stunning visuals with high brightness and contrast ratios.",
+
+      "The device featured a triple-camera system, combining 12-megapixel wide, ultra-wide, and telephoto lenses for unparalleled photography and video recording.",
+      "With Night mode, Deep Fusion, and Smart HDR, the iPhone 11 Pro Max excelled in low-light conditions, capturing breathtaking images even in challenging environments.",
+      "With enhanced water and dust resistance, the phone was built to withstand the elements while providing a premium and durable design.",
+      "Running on iOS 13 at launch and later upgradable to newer iOS versions, the iPhone 11 Pro Max offered seamless integration with Apple's ecosystem and access to a wide range of apps and features."
+    ]
+  },
+  {
+    "id": "2334as5sddas",
+    "image": "images/productimages/iphone12.png",
+    "price": 325000,
+    "name": "Iphone 12",
+    "description": [
+      "The iPhone 12, launched by Apple in October 2020, is a remarkable addition to the iPhone lineup.",
+      "Featuring a stunning 6.1-inch Super Retina XDR display, the phone offers brilliant colors, deep blacks, and exceptional brightness for an immersive visual experience.",
+      "Powered by the A14 Bionic chip, the iPhone 12 delivers outstanding performance and efficiency, making it ideal for multitasking, gaming, and demanding applications.",
+
+      "With 5G capability, the iPhone 12 provides faster download speeds and improved connectivity for a seamless online experience.",
+      "The iPhone 12 also boasts a durable Ceramic Shield front cover, providing four times better drop performance, and it is water and dust resistant.",
+
+      "With its blend of cutting-edge technology, sleek design, and powerful performance, the iPhone 12 continues to be a popular choice among smartphone enthusiasts worldwide."
+    ]
+  },
+  {
+    "id": "ddrr2asda",
+    "image": "images/productimages/iphone12promas.png",
+    "price": 500000,
+    "name": "Iphone 12 Promax",
+    "description": [
+      "The iPhone 12 Pro Max, introduced by Apple in October 2020, is the pinnacle of the iPhone 12 series.",
+      "Featuring a massive 6.7-inch Super Retina XDR display, the phone offers stunning visuals with high brightness and contrast ratios.",
+      "Powered by the A14 Bionic chip, the iPhone 12 Pro Max delivers exceptional performance, supporting advanced AI and machine learning capabilities.",
+
+      "The iPhone 12 Pro Max also features a durable Ceramic Shield front cover, providing four times better drop performance, and it is water and dust resistant.",
+      "Running on iOS 14, the iPhone 12 Pro Max offers access to a wide range of apps, features, and regular software updates, ensuring users stay up-to-date with the latest advancements from Apple.",
+      "With its luxurious design, powerful performance, and cutting-edge camera capabilities, the iPhone 12 Pro Max is the ultimate choice for users seeking the best-in-class iPhone experience."
+    ]
+  },
+  {
+    "id": "2as333fffssda",
+    "image": "images/productimages/iphone13.png",
+    "price": 391000,
+    "name": "Iphone 13",
+    "description": [
+      "The iPhone13, introduced by Apple in October 2020, is the pinnacle of the iPhone 12 series.",
+      "Featuring a massive 6.7-inch Super Retina XDR display, the phone offers stunning visuals with high brightness and contrast ratios.",
+      "Powered by the A14 Bionic chip, the iPhone 13 delivers exceptional performance, supporting advanced AI and machine learning capabilities.",
+
+      "The iPhone 13 also features a durable Ceramic Shield front cover, providing four times better drop performance, and it is water and dust resistant.",
+      "Running on iOS 14, the iPhone 13offers access to a wide range of apps, features, and regular software updates, ensuring users stay up-to-date with the latest advancements from Apple.",
+      "With its luxurious design, powerful performance, and cutting-edge camera capabilities"
+    ]
+  },
+
+  {
+    "id": "a2asdadpef",
+    "image": "images/productimages/iphone13promaxpng.png",
+    "price": 600000,
+    "name": "Iphone 13 Promax",
+    "description": [
+      "The iPhone 13, unveiled by Apple in September 2021, represents the latest evolution of the iPhone lineup.",
+      "Featuring a sleek design with a 6.1-inch Super Retina XDR display, the phone offers stunning visuals with improved brightness and color accuracy.",
+      "Powered by the next-generation A15 Bionic chip, the iPhone 13 delivers enhanced performance and energy efficiency, supporting advanced AI and machine learning capabilities.",
+
+      "The iPhone 13 also features a Ceramic Shield front cover, providing enhanced durability and protection against drops.",
+      "Running on iOS 15, the iPhone 13 offers access to a wide range of apps, features, and regular software updates, ensuring users stay up-to-date with the latest advancements from Apple.",
+      "With its refined design, powerful performance, and improved camera capabilities, the iPhone 13 is set to be a popular choice for users looking for the latest and greatest in the iPhone ecosystem."
+    ]
+  },
+  {
+    "id": "2assdapeow3",
+    "image": "images/productimages/iphone14.png",
+    "price": 500000,
+    "name": "Iphone 14",
+    "description": [
+      "Experience the future with the iPhone 14. Combining sleek design with cutting-edge technology, this device is a true marvel of innovation.",
+
+      "Enjoy lightning-fast performance powered by the advanced A-series chip. From seamless multitasking to smooth app launches, the iPhone 14 delivers an unparalleled user experience.",
+
+      "Capture every moment in stunning detail with the enhanced camera system. Whether you're taking photos or shooting videos, the iPhone 14 ensures exceptional quality and clarity.",
+
+      "Immerse yourself in the vibrant and lifelike visuals of the Super Retina XDR display. Whether you're browsing the web, watching videos, or playing games, the display brings your content to life."
+    ]
+  },
+  {
+    "id": "2sdfase3da",
+    "image": "images/productimages/iphonex.png",
+    "price": 290000,
+    "name": "Iphone x",
+    "description": [
+      "The iPhone X, released by Apple in November 2017, marked a major design departure from previous iPhone models.",
+      "Featuring a stunning 5.8-inch Super Retina display, the phone offered vibrant colors and true blacks, along with support for HDR content.",
+      "Powered by the A11 Bionic chip, the iPhone X delivered exceptional performance and efficiency, supporting advanced features like augmented reality (AR) and facial recognition.",
+      "The device introduced Face ID, a secure facial recognition system that replaced the traditional Touch ID fingerprint sensor for unlocking the phone and authorizing purchases.",
+      "With its glass and stainless-steel construction, the iPhone X offered a premium look and feel, and it was water and dust resistant."
+    ]
+  }
+]

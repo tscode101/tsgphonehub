@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TsgPhoneHub</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="nav-center">
+        <!-- links -->
+        <div>
+          <button class="toggle-nav" id="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link"> home </a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link"> About us </a>
+            </li>
+            <li>
+              <a href="store.html" class="nav-link"> Store </a>
+            </li>
+            <li>
+              <a href="index.html#contact-us" class="nav-link smooth-scroll">
+                Contact Us</a
+              >
+            </li>
+          </ul>
+        </div>
+        <!-- logo -->
+        <img src="./images/logoo.png" class="nav-logo" alt="logo" />
+        <!-- cart icon -->
+        <div class="toggle-container">
+          <button class="toggle-cart" id="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+          <span class="cart-item-count">0</span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- sidebar -->
+    <div class="sidebar-overlay" id="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close" id="sidebar-close">
+          <i class="fa fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link"> home </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link"> About us </a>
+          </li>
+          <li>
+            <a href="store.html" class="sidebar-link"> Store </a>
+          </li>
+          <li>
+            <a href="index.html#contact-us" class="sidebar-link"> Contact Us</a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+    <!-- cart -->
+    <div class="cart-overlay" id="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close" id="cart-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <header>
+          <h3 class="text-slanteds">Items added</h3>
+        </header>
+        <!-- cart items -->
+        <div class="cart-items cart-content"></div>
+
+        <!-- footer -->
+        <footer>
+          <h3 class="cart-total text-slanteds" id="cart-total-price"></h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+    <!-- home/about -->
+
+    <!-- featured shoop  -->
+    <section class="aboutdesigns">
+      <div class="aboutdesign"></div>
+    </section>
+    <div class="catalog"><p>Phone Catolog</p></div>
+    <span class="linedesign">
+      <div class="line"></div>
+      <div class="line2"></div>
+      <div class="line"></div>
+    </span>
+    <section class="menufilter">
+      <div class="menufilter-search">
+        <form class="name-search" id="name-search">
+          <label for="priceRange"> Search Item: </label>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search by name..."
+            class="itemsearch"
+          /><button type="submit"><i class="fas fa-search"></i></button>
+        </form>
+      </div>
+      <div class="price-search">
+        <form class="price-filter">
+          <label for="priceRange"> Price: </label>
+          <input
+            type="number"
+            id="min-price"
+            placeholder="mini Price"
+            class="mini"
+          />
+          <input
+            type="number"
+            id="max-price"
+            placeholder="maxi Price"
+            class="maxi"
+          />
+          <button type="submit" class="filter-button" id="filter-button">
+            Filter
+          </button>
+        </form>
+      </div>
+    </section>
+    <section class="storecatalog" id="single-item-catalog">
+      <div class="single-item-catalog">
+        <a href="product.html?id=12">
+          <img
+            src="images/product image temhom/14promax.png"
+            class="sigle-item-img"
+            alt=""
+          />
+          <footer class="item-name-price">
+            <p class="item-name">Iphone 14promax</p>
+            <h4 class="product-price">&#8358;650,000</h4>
+          </footer>
+        </a>
+        <button class="single-cart-btn" id="openmycart" data-id="1">
+          <p><i class="fas fa-shopping-cart"></i>Add To Cart</p>
+        </button>
+      </div>
+    </section>
+    <button class="backtostore" id="backtostore">
+      <a href="store.html">Back to Store</a>
+    </button>
+    <button class="backtostorse" id="backtostorse">
+      <a href="store.html">Back to Store</a>
+    </button>
+    <footer class="sectionfooter">
+      <p>
+        copyright &copy; TsgPhoneHub
+        <span id="date"></span>. All Rights Reserved
+      </p>
+    </footer>
+    <script type="module" src="./pages/store.js"></script>
+  </body>
+</html>

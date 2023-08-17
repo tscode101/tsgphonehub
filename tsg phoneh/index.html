@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TsgPhoneHub</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="nav-center">
+        <!-- links -->
+        <div>
+          <button class="toggle-nav" id="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link"> home </a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link"> About us </a>
+            </li>
+            <li>
+              <a href="store.html" class="nav-link"> Store </a>
+            </li>
+            <li>
+              <a href="#contact-us" class="nav-link"> Contact Us</a>
+            </li>
+          </ul>
+        </div>
+        <!-- logo -->
+        <img src="./images/logoo.png" class="nav-logo" alt="logo" />
+        <!-- cart icon -->
+        <div class="toggle-container">
+          <button class="toggle-cart" id="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+          <span class="cart-item-count">0</span>
+        </div>
+      </div>
+    </nav>
+    <section class="hero">
+      <div class="hero-container">
+        <article class="hero-info">
+          <h1 class="text-slanted">
+            <span class="first-word">TSG</span> <br />PHONE HUB
+          </h1>
+          <h3>We sell Brand New/Uk Used phone</h3>
+          <a href="store.html" class="hero-btn"> shop now </a>
+        </article>
+        <!-- <article class="phone-bcg">
+          <img src="./phone.svg" class="phone-img" alt="phone" />
+        </article> -->
+      </div>
+    </section>
+    <!-- sidebar -->
+    <div class="sidebar-overlay" id="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close" id="sidebar-close">
+          <i class="fa fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link"> home </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link"> About us </a>
+          </li>
+          <li>
+            <a href="store.html" class="sidebar-link"> Store </a>
+          </li>
+          <li>
+            <a href="#contact-us" class="sidebar-link"> Contact Us</a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+    <!-- cart -->
+    <div class="cart-overlay" id="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close" id="cart-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <header>
+          <h3 class="text-slanteds">Items added</h3>
+        </header>
+
+        <!-- cart items -->
+        <div class="cart-items cart-content"></div>
+        <!-- footer -->
+        <footer>
+          <h3 class="cart-total text-slanteds">total :</h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+    <!-- featured shoop  -->
+    <section class="sectionfront featured">
+      <div class="featured-title"><h2>Best selling</h2></div>
+      <section class="homecatalog">
+        <div class="home-item-catalog">
+          <img
+            src="images/product image temhom/14promax.png"
+            class="home-item-img"
+            alt=""
+          />
+          <footer class="home-name-price">
+            <p class="item-name">Iphone 14promax</p>
+            <h4 class="product-price">&#8358;650,000.00</h4>
+          </footer>
+        </div>
+        <div class="home-item-catalog">
+          <img
+            src="images/productimages/iphone 7plus.png"
+            class="home-item-img"
+            alt=""
+          />
+          <footer class="home-name-price">
+            <p class="item-name">Iphone 7 plus</p>
+            <h4 class="product-price">&#8358;103,000.00</h4>
+          </footer>
+        </div>
+        <div class="home-item-catalog">
+          <img
+            src="images/productimages/iphone13.png"
+            class="home-item-img"
+            alt=""
+          />
+          <footer class="home-name-price">
+            <p class="item-name">Iphone 13</p>
+            <h4 class="product-price">&#8358;391,000.00</h4>
+          </footer>
+        </div>
+        <div class="home-item-catalog">
+          <img
+            src="images/productimages/iphone 8 plus.png"
+            class="home-item-img"
+            alt=""
+          />
+          <footer class="home-name-price">
+            <p class="item-name">Iphone 8 plus</p>
+            <h4 class="product-price">&#8358;150,000.00</h4>
+          </footer>
+        </div>
+      </section>
+      <a href="store.html" class="btnviewall"><p>Shop Now!!!</p> </a>
+    </section>
+
+    <!-- contact us -->
+    <section class="contact-Us" id="contact-us">
+      <div class="featured-title-contact"><h2>Contact Us</h2></div>
+      <article class="contus" id="contus">
+        <p class="moving-text">
+          You can contact us by clicking on any of our Socials. Thanks.
+        </p>
+      </article>
+      <div class="maincontact">
+        <div class="up">
+          <a href="https://instagram.com/t_tsg__"
+            ><button class="card1">
+              <i class="fab fa-instagram instagram"></i></button
+          ></a>
+          <a href="https://twitter.com/solomontosin11"
+            ><button class="card2">
+              <i class="fab fa-twitter twitter"></i>
+            </button>
+          </a>
+        </div>
+        <div class="down">
+          <a href="https://facebook.com/cr8tivearts">
+            <button class="card3">
+              <i class="fab fa-facebook facebook"></i></button
+          ></a>
+          <a href="mailto:tsgcode201@gmail.com?">
+            <button class="card4">
+              <i class="far fa-envelope email"></i></button
+          ></a>
+        </div>
+      </div>
+    </section>
+    <footer class="sectionfooter">
+      <p>
+        copyright &copy; TsgPhoneHub
+        <span id="date"></span>. All Rights Reserved
+      </p>
+    </footer>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

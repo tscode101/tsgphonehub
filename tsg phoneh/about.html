@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TsgPhoneHub</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="nav-center">
+        <!-- links -->
+        <div>
+          <button class="toggle-nav" id="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link"> home </a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link"> About us </a>
+            </li>
+            <li>
+              <a href="store.html" class="nav-link"> Store </a>
+            </li>
+            <li>
+              <a href="index.html#contact-us" class="nav-link smooth-scroll"> Contact Us</a>
+            </li>
+          </ul>
+        </div>
+        <!-- logo -->
+        <img src="./images/logoo.png" class="nav-logo" alt="logo" />
+        <!-- cart icon -->
+        <div class="toggle-container">
+          <button class="toggle-cart" id="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+          <span class="cart-item-count">0</span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- sidebar -->
+    <div class="sidebar-overlay" id="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close" id="sidebar-close">
+          <i class="fa fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link"> home </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link"> About us </a>
+          </li>
+          <li>
+            <a href="store.html" class="sidebar-link"> Store </a>
+          </li>
+          <li>
+            <a href="index.html#contact-us" class="sidebar-link"> Contact Us</a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+    <!-- cart -->
+    <div class="cart-overlay cart-content" id="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close" id="cart-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <header>
+          <h3 class="text-slanteds">Items added</h3>
+        </header>
+        <!-- cart items -->
+        <div class="cart-items"></div>
+        <!-- footer -->
+        <footer>
+          <h3 class="cart-total text-slanteds">total : </h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+    <!-- home/about -->
+
+    <!-- featured shoop  -->
+    <section class="aboutdesigns">
+      <div class="aboutdesign"></div>
+    </section>
+    <section class="section section-center about-page">
+      
+      <div class="background-animation">
+        <h2><span></span> About Us</h2>
+      </div>
+      <div class="aboutdetails">
+      <p class="about-text">
+        Welcome to TsgPhoneHub, your ultimate destination for all things mobile
+        technology. At TsgPhoneHub, we're not just selling phones; we're
+        connecting you to a world of possibilities, one device at a time. Our
+        Journey began with a simple idea: to provide a seamless and exciting
+        shopping experience for those seeking the latest and greatest in mobile
+        technology. Since our establishment in 2022, we have been committed to
+        delivering a curated selection of cutting-edge New iphone,Uk used Iphone
+        and expert advice to help you make the best choices.
+        <br >At TsgPhoneHub, we are more than just an online store. We are your
+        partners in staying connected, informed, and empowered in this rapidly
+        evolving digital age. Our commitment to you includes: <ul class="listabout"><li>1. We offer a
+        diverse range of Iphone, ensuring you have access
+        to the latest models.</li><li> 2.  Our team of tech enthusiasts is here to provide personalized
+        guidance, helping you find the perfect device that aligns with your
+        lifestyle and preferences. </li> <li>3.  We stand behind the
+        quality and authenticity of every product we offer. All our products
+        undergo rigorous testing to ensure they meet the highest standards.</li>
+        </ul> 
+       </br>
+       <h2>Our Vision</h2> <p class="outvision">Our vision is to be your go-to
+        destination for all your mobile needs. We envision a world where
+        everyone has access to the transformative power of technology. With this
+        vision in mind, we are continually expanding our offerings and services
+        to better serve you.  We
+        invite you to explore our collection, stay connected with us on social
+        media.
+        </p>
+      </p>
+      </div>
+      <div class="aboutbackhome">
+       <a href="index.html" class="btnviewall"> Home </a>
+      </div>
+    </section>
+
+    <footer class="sectionfooter">
+      <p>
+        copyright &copy; TsgPhoneHub
+        <span id="date"></span>. All Rights Reserved
+      </p>
+    </footer>
+    <script type="module" src="./pages/about.js"></script>
+  </body>
+</html>
